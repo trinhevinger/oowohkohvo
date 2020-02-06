@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lahnuchee.emmagates.co.uk/sitemap.xml
